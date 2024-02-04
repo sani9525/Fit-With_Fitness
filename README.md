@@ -1,8 +1,10 @@
-#FIT-WITH-FITNESS
+# FIT-WITH-FITNESS
 • I have used technologies React, Material UI, and Rapid-API.
+
 • Developed a modern React fitness exercises application with the functionality to choose exercise categories and specific muscle groups.
-• Designed and implemented features including more than thousands of exercises available with practical examples, paginations, exercise details,
-pulling related videos from YouTube displaying similar exercises, and many more.
+
+• Designed and implemented features including more than thousands of exercises available with practical examples, paginations, exercise details,pulling related videos from YouTube displaying similar exercises, and many more.
+
 • Searching and filtering functionality is available to easily find specific exercises.
 
 
